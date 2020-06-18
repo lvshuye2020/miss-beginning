@@ -4,6 +4,8 @@ import java.io.Serializable;
 import java.util.Date;
 
 public class SysUser implements Serializable {
+
+    //注释git
     private String id;
 
     private String username;
