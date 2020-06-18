@@ -5,7 +5,7 @@ import java.util.Date;
 
 public class sysPermission implements Serializable {
     private String id;
-
+//dfafaaaf
     private String code;
     //zhushi1
     private String name;
