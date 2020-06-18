@@ -9,7 +9,7 @@ public class sysPermission implements Serializable {
     private String code;
     //zhushi1
     private String name;
-
+//454544545
     private String perms;
 
     private String url;
