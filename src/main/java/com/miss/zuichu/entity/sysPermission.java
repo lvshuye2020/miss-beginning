@@ -7,7 +7,7 @@ public class sysPermission implements Serializable {
     private String id;
 
     private String code;
-    //zhushi
+    //zhushi1
     private String name;
 
     private String perms;
