@@ -5,11 +5,12 @@ import java.util.Date;
 
 public class sysPermission implements Serializable {
     private String id;
-//dfafaaaf
+    //dfafaaaf
     private String code;
     //zhushi1
     private String name;
-//454544545
+    //454544545
+    //454545454545
     private String perms;
 
     private String url;
